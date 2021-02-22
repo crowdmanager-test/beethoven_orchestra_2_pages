@@ -371,7 +371,9 @@
 						<pb/>
 						<measure label="1" n="1" xml:id="measure_f54decf6-d814-4b27-a558-ca7db41f54b9">
 							<staff facs="#zone_af74307f-fbdd-46ac-96c0-2a3b1dde0977" label="1" n="1" xml:id="staff_5a5ba008-8a50-4b6c-9637-1556857ad59a">
-								<layer/>
+								<layer>
+									<clef line="2" shape="G" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_46f32faf-7d11-46b5-9e46-6934733122a1" label="2" n="2" xml:id="staff_b0df249c-d95f-4260-b31a-3b6e3c70e63c">
 								<layer/>
