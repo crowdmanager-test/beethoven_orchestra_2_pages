@@ -368,6 +368,7 @@
 						</staffGrp>
 					</scoreDef>
 					<section>
+						<scoreDef meter.sym="common"/>
 						<pb/>
 						<measure label="1" n="1" xml:id="measure_f54decf6-d814-4b27-a558-ca7db41f54b9">
 							<staff facs="#zone_af74307f-fbdd-46ac-96c0-2a3b1dde0977" label="1" n="1" xml:id="staff_5a5ba008-8a50-4b6c-9637-1556857ad59a">
