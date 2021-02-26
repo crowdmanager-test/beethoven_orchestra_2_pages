@@ -392,6 +392,7 @@
 								<layer/>
 							</staff>
 						</measure>
+						<scoreDef key.sig="2f" key.sig.show="true"/>
 						<measure label="2" n="2" xml:id="measure_ea9e5c52-d0b0-4eb8-b907-9a5958bbd465">
 							<staff facs="#zone_936fbfa7-0475-49b0-805b-47c9c060e0f7" label="1" n="1" xml:id="staff_d546e1b6-8b6a-473f-9998-914dc6aa2514">
 								<layer/>
